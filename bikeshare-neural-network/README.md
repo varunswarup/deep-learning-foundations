@@ -7,5 +7,5 @@ This introductory project entailed developing a feed-forward neural network and 
 ## Prerequisites & Notes ##
 
 1. Create a new Conda environment for Python 3, or activate an existing environment if desired.
-2. The following packages need to be present or installed in your Conda environment -- numpy, matplotlib, pandas, and jupyter notebook
-3. As a reference, I've saved a copy of my environment in bikeshare_conda_env.txt.
+2. The following packages need to be present or installed in your Conda environment -- numpy, matplotlib, pandas, and jupyter notebook.
+3. As a reference, I've saved a copy of my environment in [bikeshare_conda_env.txt](bikeshare_conda_env.txt).
