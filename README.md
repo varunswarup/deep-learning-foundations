@@ -7,3 +7,7 @@ This is a repository of projects that I completed as part of Udacity's [Deep Lea
 ### Bikeshare Rental Prediction ###
 
 Develop a standard Feed-forward Neural Network and train it on historical bike-sharing data to predict daily bike rental volume.
+
+### Image Classification for Computer Vision ###
+
+Build a convolutional neural network to recognize and classify new images based on a pre-defined set of known, labeled images. Image classification (or object recognition) represents one of the core components of computer vision.
