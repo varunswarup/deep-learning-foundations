@@ -11,3 +11,7 @@ Develop a standard Feed-forward Neural Network and train it on historical bike-s
 ### Image Classification for Computer Vision ###
 
 Build a convolutional neural network to recognize and classify new images based on a pre-defined set of known, labeled images. Image classification (or object recognition) represents one of the core components of computer vision.
+
+### TV Script Generation for The Simpsons ###
+
+Use a recurrent neural network to ghostwrite TV dialogues for The Simpsons, with the network being trained on a partial dataset of the famous sitcom's scripts.
